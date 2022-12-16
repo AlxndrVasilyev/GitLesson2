@@ -89,3 +89,15 @@ ___
 > git branch -D branch_name
 ___
 
+## Справка
+
+Для вызова строки по команде допишите тег:
+> --help
+
+Например:
+
+    git add --help
+    
+    git status --help
+    
+    git log --help
