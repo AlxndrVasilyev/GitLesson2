@@ -71,3 +71,21 @@ ___
 > git checkout branch_name
 ___
 
+## Слияние веток и решение конфликтов
+
+Для передвачи информации из ветки branch_name в текущую:
+> git merge branch_name
+
+___
+
+## Удаление веток
+
+Для удаления ветки branch_name:
+
+> git branch -d branch_name
+
+Для удаления с игнорированием ошибок:
+
+> git branch -D branch_name
+___
+
