@@ -102,4 +102,4 @@ ___
     
     git log --help
 
-merged berkut to main
+mergering berkut to main
