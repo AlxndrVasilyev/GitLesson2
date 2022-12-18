@@ -102,5 +102,4 @@ ___
     
     git log --help
 
-    Какая-то информация с ветки беркут
-    
+    second commit to berkut
