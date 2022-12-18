@@ -102,4 +102,4 @@ ___
     
     git log --help
 
-добавил ветку Беркут
+merged berkut to main
