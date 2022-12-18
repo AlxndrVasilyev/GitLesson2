@@ -126,3 +126,12 @@ ___
 
     например git clone https://github.com/KarpenkoDenis/InstructionMD.git
 
+*По умолчанию, имя папки со сторонним репозиторием копируется с тем же названием. При желании можно сразу назначить другое имя папки для стороннего репозитория* 
+ 
+    например git clone https://github.com/KarpenkoDenis/InstructionMD.git SomeName
+
+Для смена папки (перехода с собственного репо на клонировнный) команда:
+
+> cd (название папки)
+
+    например cd Instruction (либо cd .\Instruction\)
