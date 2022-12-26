@@ -1,0 +1,15 @@
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task13/obj/Debug/net7.0/task13.csproj.AssemblyReference.cache
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task13/obj/Debug/net7.0/task13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task13/obj/Debug/net7.0/task13.AssemblyInfoInputs.cache
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task13/obj/Debug/net7.0/task13.AssemblyInfo.cs
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task13/obj/Debug/net7.0/task13.csproj.CoreCompileInputs.cache
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task13/bin/Debug/net7.0/task13
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task13/bin/Debug/net7.0/task13.deps.json
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task13/bin/Debug/net7.0/task13.runtimeconfig.json
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task13/bin/Debug/net7.0/task13.dll
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task13/bin/Debug/net7.0/task13.pdb
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task13/obj/Debug/net7.0/task13.dll
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task13/obj/Debug/net7.0/refint/task13.dll
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task13/obj/Debug/net7.0/task13.pdb
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task13/obj/Debug/net7.0/task13.genruntimeconfig.cache
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task13/obj/Debug/net7.0/ref/task13.dll
