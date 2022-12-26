@@ -2,4 +2,17 @@
 // 6 -> да
 // 7 -> да
 // 1 -> нет
-
+System.Console.WriteLine("Введите цифру, обозначающиую день недели: ");
+int n = Convert.ToInt32(Console.ReadLine());
+if (n > 7)
+{
+    System.Console.WriteLine("Заданное число не обозначает ни один из дней недели");
+} 
+else if (n > 0 && n < 6)
+{
+    System.Console.WriteLine("Это не выходной");
+}
+else
+{
+    System.Console.WriteLine("Да, это один из дней уикенда");
+}
