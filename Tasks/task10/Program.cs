@@ -10,5 +10,12 @@ int SecondDigit(int Number)
     return Number / 10 % 10;
 }
 Console.WriteLine("Введите трёхзначное число: ");
-int Number = int.Parse(Console.ReadLine());
-Console.WriteLine("Вторая цифра трёхзначного числа - " + SecondDigit(Number));
+int n = Convert.ToInt32(Console.ReadLine());
+if (n < 100 || n > 999)
+{
+    System.Console.WriteLine(n + " не является трёхзначным числом");
+}   
+else
+{
+    Console.WriteLine("Вторая цифра трёхзначного числа - " + SecondDigit(n));
+}
