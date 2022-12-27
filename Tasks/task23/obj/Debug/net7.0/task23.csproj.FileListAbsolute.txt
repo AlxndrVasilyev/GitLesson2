@@ -1,0 +1,15 @@
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task23/obj/Debug/net7.0/task23.csproj.AssemblyReference.cache
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task23/obj/Debug/net7.0/task23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task23/obj/Debug/net7.0/task23.AssemblyInfoInputs.cache
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task23/obj/Debug/net7.0/task23.AssemblyInfo.cs
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task23/obj/Debug/net7.0/task23.csproj.CoreCompileInputs.cache
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task23/bin/Debug/net7.0/task23
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task23/bin/Debug/net7.0/task23.deps.json
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task23/bin/Debug/net7.0/task23.runtimeconfig.json
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task23/bin/Debug/net7.0/task23.dll
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task23/bin/Debug/net7.0/task23.pdb
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task23/obj/Debug/net7.0/task23.dll
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task23/obj/Debug/net7.0/refint/task23.dll
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task23/obj/Debug/net7.0/task23.pdb
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task23/obj/Debug/net7.0/task23.genruntimeconfig.cache
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task23/obj/Debug/net7.0/ref/task23.dll
