@@ -14,7 +14,7 @@ int y2 = Convert.ToInt32(Console.ReadLine());
 int z2 = Convert.ToInt32(Console.ReadLine());
 
 // записываем формулу для вычисления расстояния между двумя точками в пространстве AB = √((xb - xa)ˆ2 + (yb - ya)ˆ2 + (zb - za)ˆ2)
-// разбиваю формулу на две части
+// для этого разбиваю формулу на две части
 
 double SumOfPows = ((x2 - x1) * (x2 - x1)) + ((y2 - y1) * (y2 - y1)) + ((z2 - z1) * (z2 - z1));
 double distance3D = Math.Sqrt(SumOfPows);
