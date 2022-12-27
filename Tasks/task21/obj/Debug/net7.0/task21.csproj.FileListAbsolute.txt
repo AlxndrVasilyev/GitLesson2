@@ -1,0 +1,15 @@
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task21/obj/Debug/net7.0/task21.csproj.AssemblyReference.cache
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task21/obj/Debug/net7.0/task21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task21/obj/Debug/net7.0/task21.AssemblyInfoInputs.cache
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task21/obj/Debug/net7.0/task21.AssemblyInfo.cs
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task21/obj/Debug/net7.0/task21.csproj.CoreCompileInputs.cache
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task21/bin/Debug/net7.0/task21
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task21/bin/Debug/net7.0/task21.deps.json
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task21/bin/Debug/net7.0/task21.runtimeconfig.json
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task21/bin/Debug/net7.0/task21.dll
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task21/bin/Debug/net7.0/task21.pdb
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task21/obj/Debug/net7.0/task21.dll
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task21/obj/Debug/net7.0/refint/task21.dll
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task21/obj/Debug/net7.0/task21.pdb
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task21/obj/Debug/net7.0/task21.genruntimeconfig.cache
+/Users/aleksandrvasilev/Desktop/GeekBrainsFolder/Tasks/task21/obj/Debug/net7.0/ref/task21.dll
